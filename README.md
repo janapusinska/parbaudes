@@ -1,2 +1,0 @@
-# parbaudes
-parbaudes darbs
